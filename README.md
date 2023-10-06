@@ -1,42 +1,63 @@
 # OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
 
-AIM:
+## AIM:
 To install an operating system using virtual box.
+## PROCEDURE:
 
-PROCEDURE:
 1.Download and install virtual box from the website of oracle virtual box.
 
 2.Download the linux ISO from the linux distribution from its official site.
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/6327c22a-681d-4ed0-a68c-85a2c86567f5)
+
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4PQyqbUMI2LocJ_NSqi8rLOBAqEdsW84Ztg&usqp=CAU)
+
 
 3.Install linux using virtual box.
 
 4.Start VirtualBox, and click on the New symbol to create a virtual machine.
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/cba67d35-8a0b-4070-b41a-08ceb131c444)
 
-5.It should let you write a name, and the select the ISO. The rest of the things should be automatically set.
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/6c51df0f-8f00-4ef3-923c-9cdd39af1f92)
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/b381a042-8474-48fd-a9e1-3bb0ba9b4061)
+![image DXXLB2](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/901571cf-4545-4883-9279-de43c5f6da4a)
 
-6.For Ubuntu, VirtualBox supports creating a username, password, and specifying the hostname. You can decide to customize it or go with the defaults.
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/2525d5b7-e54a-414f-b92b-d6cd7b91ff31)
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/4491adbf-046c-4626-8aa6-6b1725b4e26b)
-
-7.Next, you need to allocate memory and the CPU to help run the virtual machine.It is recommended to allocate half of what your system offers. Suppose you have 16 Gigs of RAM, you can allocate 8 to the virtual machine.
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/6ae1cc59-d4fb-4c8d-84f6-9685a55264f1)
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/bab9837e-8871-4ee4-b27c-3a0a64e9a8ba)
-
-8.Now the virtual disk. This serves as the hard disk of the virtual Linux system. It is where the VM will store its files.Go with the defaults. If you have too much of less virtual hard disk space, the Linux distro might not install.
-
-9.You will be now shown a summary of all your selections, and then it is time to launch and initiate installing the Linux OS as a virtual machine.
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/7f3099e8-dc74-4006-abc0-8bd5f23ff86a)
-
-10.Once everything is in place, it’s time to boot that ISO and install Linux as a virtual operating system.
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/e3402076-2b6e-4283-a827-65a08a93d9e1)
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/5795b45f-ea61-4e4c-a442-5a2a9dd54459)
-![image](https://github.com/Mithunlavanyaraj/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/120077786/527773bd-671e-434d-b693-2b594e660c41)
+5.It should let you write a name, and the select the ISO. The rest of the things
+should be automatically set.
 
 
+![image 3ATFB2](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/c1890e07-240d-4f48-86a6-b695a95b09bd)
+![image](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/3016dcf3-c1fe-419b-bb87-9623f7671c1e)
 
-RESULT:
+6.For Ubuntu, VirtualBox supports creating a username, password, and
+specifying the hostname. You can decide to customize it or go with the
+defaults.
+
+![image](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/7f5a6a1b-afa2-40bb-9288-549bddaa60fb)
+![image KV2GB2](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/acf552cd-7abf-445a-9019-aff0963449a1)
+
+7.Next, you need to allocate memory and the CPU to help run the virtual
+machine.It is recommended to allocate half of what your system offers.
+Suppose you have 16 Gigs of RAM, you can allocate 8 to the virtual machine.
+
+![image IHMEB2](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/f2a3dd31-81bd-4bc5-b671-ce810dcdcc11)
+
+![image](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/9e1383aa-0892-4bbd-841b-bea9d43c7971)
+
+8.Now the virtual disk. This serves as the hard disk of the virtual Linux system.
+It is where the VM will store its files.Go with the defaults. If you have too much
+of less virtual hard disk space, the Linux distro might not install.
+
+9.You will be now shown a summary of all your selections, and then it is time
+to launch and initiate installing the Linux OS as a virtual machine.
+
+
+![image ZHYCB2](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/bb743be0-22d1-46b7-890b-92228d6b54ce)
+
+10.Once everything is in place, it’s time to boot that ISO and install Linux as a
+virtual operating system.
+
+![image](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/655744b8-4026-4822-85f0-d856fc711da6)
+![image](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/c85de272-3830-44f8-97d2-1bf4e82065e6)
+![image OEB5A2](https://github.com/praveenst13/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/118787793/ecb12a72-b434-4e18-ae94-1003d6138b97)
+
+
+## RESULT:
+
 Hence the OS is successfully installed and set up using virtual box.
